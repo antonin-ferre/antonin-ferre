@@ -44,7 +44,7 @@ Currently focused on:
 
 <p align="center">
   <i>Crafted with ❤️ in TypeScript — always learning, always building.</i>
-</p>3
+</p>
 
 
 ---
