@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Antonin</h1>
-<h3 align="center">Full-Stack & AI Developer — building web applications and intelligent agents</h3>
+<h3 align="center">Full-Stack & AI Developer — designing elegant backends and agentic systems powered by LangChain.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonin-ferre/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
