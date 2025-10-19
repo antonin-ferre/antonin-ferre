@@ -38,9 +38,18 @@ Currently focused on:
 
 ---
 
-<p align="center">
-  <img src="https://github.com/antonin-ferre/antonin-ferre/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<details>
+  <summary><b>Extras</b></summary>
+
+  <p align="center">
+    <img width="700"
+         src="https://raw.githubusercontent.com/antonin-ferre/antonin-ferre/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+         alt="Contribution snake (light)" />
+    <img width="700"
+         src="https://raw.githubusercontent.com/antonin-ferre/antonin-ferre/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+         alt="Contribution snake (dark)" />
+  </p>
+</details>
 
 <p align="center">
   <i>Crafted with ❤️ in TypeScript — always learning, always building.</i>
