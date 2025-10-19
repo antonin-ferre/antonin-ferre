@@ -42,4 +42,5 @@ Currently focused on:
 If you’re building something with AI or need help with a complex backend, I’d love to collaborate.
 
 👉 Reach me via [LinkedIn](https://www.linkedin.com/in/antonin-ferre/) or [Malt](https://www.malt.fr/profile/antoninferre).  
+
 *🇫🇷 Disponible pour missions freelance en développement Full-Stack & IA.*
