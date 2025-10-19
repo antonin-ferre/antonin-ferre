@@ -38,6 +38,17 @@ Currently focused on:
 
 ---
 
+<p align="center">
+  <img src="https://github.com/antonin-ferre/antonin-ferre/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>Crafted with ❤️ in TypeScript — always learning, always building.</i>
+</p>3
+
+
+---
+
 📫 **Let’s connect!**  
 If you’re building something with AI or need help with a complex backend, I’d love to collaborate.
 
