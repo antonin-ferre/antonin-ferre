@@ -38,6 +38,14 @@ Currently focused on:
 
 ---
 
+📫 **Let’s connect!**  
+If you’re building something with AI or need help with a complex backend, I’d love to collaborate.
+
+👉 Reach me via [LinkedIn](https://www.linkedin.com/in/antonin-ferre/) or [Malt](https://www.malt.fr/profile/antoninferre).  
+
+*🇫🇷 Disponible pour missions freelance en développement Full-Stack & IA.*
+
+---
 
 <p align="center">
   <img width="700"
@@ -48,17 +56,8 @@ Currently focused on:
        alt="Contribution snake (dark)" />
 </p>
 
-
 <p align="center">
   <i>Crafted with ❤️ in TypeScript — always learning, always building.</i>
 </p>
 
 
----
-
-📫 **Let’s connect!**  
-If you’re building something with AI or need help with a complex backend, I’d love to collaborate.
-
-👉 Reach me via [LinkedIn](https://www.linkedin.com/in/antonin-ferre/) or [Malt](https://www.malt.fr/profile/antoninferre).  
-
-*🇫🇷 Disponible pour missions freelance en développement Full-Stack & IA.*
