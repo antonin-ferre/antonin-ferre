@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "resolvePackageJsonExports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2023",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "strict": false,
+    "strictNullChecks": false,
+    "forceConsistentCasingInFileNames": true,
+    "strictBindCallApply": true,
+    "noFallthroughCasesInSwitch": true,
+    "paths": {
+      "@/*": ["src/*"],
+      "@shared/*": ["src/shared/*"],
+      "@shared/types/*": ["src/shared/types/*"],
+      "@types/*": ["src/types/*"],
+      "@modules/*": ["src/modules/*"],
+      "@agent/*": ["src/modules/agent/*"],
+      "@agent/domain/*": ["src/modules/agent/core/domain/*"],
+      "@agent/application/*": ["src/modules/agent/core/application/*"],
+      "@agent/ports/*": ["src/modules/agent/core/ports/*"],
+      "@agent/infrastructure/*": ["src/modules/agent/infrastructure/*"],
+      "@agent/interface/*": ["src/modules/agent/interface/*"]
+    }
+  }
+}
